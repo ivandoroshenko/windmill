@@ -94,6 +94,10 @@ color: inherit;
 letter-spacing: 0.19px;
 }
 
+.--active .crumbs_link {
+    font-weight: 400;
+}
+
 .icon-keyboard-arrow-right {
     color: #f4f4f4;
     font-size: 18px;
